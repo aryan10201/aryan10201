@@ -14,8 +14,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 
 ## 🔥 Top Projects
-- [📱 IoT Text Display](https://github.com/aryanpoonia/iot-text-display) — Display text via ESP8266 + OLED
-- [🛠️ Status Page App](https://github.com/aryanpoonia/status-page) — Fullstack app with real-time updates
-- 
+- [📡 IoT Text Display Project](https://github.com/aryan10201/IOTProject) — Fully Authenticated ESP8266 + OLED based real-time text display via app/website
+- [🏥 Hospital Management System](https://github.com/aryan10201/Hospital-management) — Database system for managing patient & staff data
+- [📞 PLIVO Assignment](https://github.com/aryan10201/PLIVO_Assignment) — Astatus page application that allows you to monitor and report the status of your services and components.
+- [🔄 AutocompleteAPI Extraction](https://github.com/aryan10201/AutoAPI) — Extracting data from a autocomplete API
+- [📈 AutoERP System](https://github.com/aryan10201/AutoERP) — A Chrome extension to automate login process for institute website
+
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/aryanpoonia](https://www.linkedin.com/in/aryan-poonia-45313b233/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/aryanpoonia](https://www.linkedin.com/in/aryan-poonia-45313b233/))
